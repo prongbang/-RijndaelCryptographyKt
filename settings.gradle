@@ -1,0 +1,3 @@
+rootProject.name = "RijndaelCryptographyKt"
+include ':app'
+include ':library'
